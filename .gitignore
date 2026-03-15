@@ -8,7 +8,6 @@ build/
 venv/
 *.ipynb_checkpoints
 .DS_Store
-data/netflix_titles.csv
 outputs/
 *.png
 *.html
