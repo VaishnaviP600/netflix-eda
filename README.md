@@ -24,7 +24,7 @@ netflix-eda/
 │   ├── recommender.py            # Recommendation system class
 │   └── network_graph.py          # NetworkX graph builder
 ├── app/
-│   └── streamlit_app.py          # 🚀 Interactive Streamlit web app
+│   └── streamlit_app.py          #  Interactive Streamlit web app
 ├── requirements.txt              # All Python dependencies
 ├── .gitignore
 └── README.md
@@ -32,7 +32,7 @@ netflix-eda/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone & install dependencies
 ```bash
@@ -98,5 +98,4 @@ streamlit run app/streamlit_app.py
 
 ---
 
-## 📬 Author
-Built as a data analyst portfolio project. Feel free to fork and extend!
+
